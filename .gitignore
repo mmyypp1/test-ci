@@ -1,9 +1,0 @@
-.DS_Store
-.classpath
-.project
-nbactions.xml
-nb-configuration.xml
-.settings/
-target/
-dependency-reduced-pom.xml
-bin/
